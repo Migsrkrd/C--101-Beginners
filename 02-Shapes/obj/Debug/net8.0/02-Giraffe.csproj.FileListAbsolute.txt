@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\02-Giraffe\bin\Debug\net8.0\02-Giraffe.exe
+C:\Users\Mike\desktop\C# 101\02-Giraffe\bin\Debug\net8.0\02-Giraffe.deps.json
+C:\Users\Mike\desktop\C# 101\02-Giraffe\bin\Debug\net8.0\02-Giraffe.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\02-Giraffe\bin\Debug\net8.0\02-Giraffe.dll
+C:\Users\Mike\desktop\C# 101\02-Giraffe\bin\Debug\net8.0\02-Giraffe.pdb
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.dll
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\refint\02-Giraffe.dll
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.pdb
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\02-Giraffe.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\02-Giraffe\obj\Debug\net8.0\ref\02-Giraffe.dll

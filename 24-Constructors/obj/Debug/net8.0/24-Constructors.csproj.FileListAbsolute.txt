@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\24-Constructors\bin\Debug\net8.0\24-Constructors.exe
+C:\Users\Mike\desktop\C# 101\24-Constructors\bin\Debug\net8.0\24-Constructors.deps.json
+C:\Users\Mike\desktop\C# 101\24-Constructors\bin\Debug\net8.0\24-Constructors.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\24-Constructors\bin\Debug\net8.0\24-Constructors.dll
+C:\Users\Mike\desktop\C# 101\24-Constructors\bin\Debug\net8.0\24-Constructors.pdb
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.dll
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\refint\24-Constructors.dll
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.pdb
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\24-Constructors.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\24-Constructors\obj\Debug\net8.0\ref\24-Constructors.dll

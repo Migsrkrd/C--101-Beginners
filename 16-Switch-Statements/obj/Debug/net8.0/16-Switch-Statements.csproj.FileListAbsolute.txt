@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\bin\Debug\net8.0\16-Switch-Statements.exe
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\bin\Debug\net8.0\16-Switch-Statements.deps.json
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\bin\Debug\net8.0\16-Switch-Statements.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\bin\Debug\net8.0\16-Switch-Statements.dll
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\bin\Debug\net8.0\16-Switch-Statements.pdb
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.dll
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\refint\16-Switch-Statements.dll
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.pdb
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\16-Switch-Statements.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\16-Switch-Statements\obj\Debug\net8.0\ref\16-Switch-Statements.dll

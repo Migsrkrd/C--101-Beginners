@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\bin\Debug\net8.0\25-Object-Methods.exe
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\bin\Debug\net8.0\25-Object-Methods.deps.json
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\bin\Debug\net8.0\25-Object-Methods.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\bin\Debug\net8.0\25-Object-Methods.dll
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\bin\Debug\net8.0\25-Object-Methods.pdb
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.dll
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\refint\25-Object-Methods.dll
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.pdb
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\25-Object-Methods.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\25-Object-Methods\obj\Debug\net8.0\ref\25-Object-Methods.dll

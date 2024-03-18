@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\07-userInput\bin\Debug\net8.0\07-userInput.exe
+C:\Users\Mike\desktop\C# 101\07-userInput\bin\Debug\net8.0\07-userInput.deps.json
+C:\Users\Mike\desktop\C# 101\07-userInput\bin\Debug\net8.0\07-userInput.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\07-userInput\bin\Debug\net8.0\07-userInput.dll
+C:\Users\Mike\desktop\C# 101\07-userInput\bin\Debug\net8.0\07-userInput.pdb
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.dll
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\refint\07-userInput.dll
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.pdb
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\07-userInput.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\07-userInput\obj\Debug\net8.0\ref\07-userInput.dll

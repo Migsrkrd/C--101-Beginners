@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\09-madLibs\bin\Debug\net8.0\09-madLibs.exe
+C:\Users\Mike\desktop\C# 101\09-madLibs\bin\Debug\net8.0\09-madLibs.deps.json
+C:\Users\Mike\desktop\C# 101\09-madLibs\bin\Debug\net8.0\09-madLibs.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\09-madLibs\bin\Debug\net8.0\09-madLibs.dll
+C:\Users\Mike\desktop\C# 101\09-madLibs\bin\Debug\net8.0\09-madLibs.pdb
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.dll
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\refint\09-madLibs.dll
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.pdb
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\09-madLibs.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\09-madLibs\obj\Debug\net8.0\ref\09-madLibs.dll

@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\05-strings\bin\Debug\net8.0\05-strings.exe
+C:\Users\Mike\desktop\C# 101\05-strings\bin\Debug\net8.0\05-strings.deps.json
+C:\Users\Mike\desktop\C# 101\05-strings\bin\Debug\net8.0\05-strings.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\05-strings\bin\Debug\net8.0\05-strings.dll
+C:\Users\Mike\desktop\C# 101\05-strings\bin\Debug\net8.0\05-strings.pdb
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.dll
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\refint\05-strings.dll
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.pdb
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\05-strings.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\05-strings\obj\Debug\net8.0\ref\05-strings.dll

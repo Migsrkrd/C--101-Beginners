@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\bin\Debug\net8.0\27-Static-Classes.exe
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\bin\Debug\net8.0\27-Static-Classes.deps.json
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\bin\Debug\net8.0\27-Static-Classes.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\bin\Debug\net8.0\27-Static-Classes.dll
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\bin\Debug\net8.0\27-Static-Classes.pdb
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.dll
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\refint\27-Static-Classes.dll
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.pdb
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\27-Static-Classes.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\27-Static-Classes\obj\Debug\net8.0\ref\27-Static-Classes.dll

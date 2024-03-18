@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\bin\Debug\net8.0\20-Exponent-Method.exe
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\bin\Debug\net8.0\20-Exponent-Method.deps.json
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\bin\Debug\net8.0\20-Exponent-Method.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\bin\Debug\net8.0\20-Exponent-Method.dll
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\bin\Debug\net8.0\20-Exponent-Method.pdb
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.dll
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\refint\20-Exponent-Method.dll
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.pdb
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\20-Exponent-Method.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\20-Exponent-Method\obj\Debug\net8.0\ref\20-Exponent-Method.dll

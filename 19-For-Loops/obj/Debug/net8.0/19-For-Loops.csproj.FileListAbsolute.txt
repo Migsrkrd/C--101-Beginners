@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\19-For-Loops\bin\Debug\net8.0\19-For-Loops.exe
+C:\Users\Mike\desktop\C# 101\19-For-Loops\bin\Debug\net8.0\19-For-Loops.deps.json
+C:\Users\Mike\desktop\C# 101\19-For-Loops\bin\Debug\net8.0\19-For-Loops.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\19-For-Loops\bin\Debug\net8.0\19-For-Loops.dll
+C:\Users\Mike\desktop\C# 101\19-For-Loops\bin\Debug\net8.0\19-For-Loops.pdb
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.dll
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\refint\19-For-Loops.dll
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.pdb
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\19-For-Loops.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\19-For-Loops\obj\Debug\net8.0\ref\19-For-Loops.dll

@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\17-While-Loops\bin\Debug\net8.0\17-While-Loops.exe
+C:\Users\Mike\desktop\C# 101\17-While-Loops\bin\Debug\net8.0\17-While-Loops.deps.json
+C:\Users\Mike\desktop\C# 101\17-While-Loops\bin\Debug\net8.0\17-While-Loops.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\17-While-Loops\bin\Debug\net8.0\17-While-Loops.dll
+C:\Users\Mike\desktop\C# 101\17-While-Loops\bin\Debug\net8.0\17-While-Loops.pdb
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.dll
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\refint\17-While-Loops.dll
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.pdb
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\17-While-Loops.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\17-While-Loops\obj\Debug\net8.0\ref\17-While-Loops.dll

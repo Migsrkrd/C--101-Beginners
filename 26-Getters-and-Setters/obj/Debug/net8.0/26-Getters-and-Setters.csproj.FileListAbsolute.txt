@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\bin\Debug\net8.0\26-Getters-and-Setters.exe
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\bin\Debug\net8.0\26-Getters-and-Setters.deps.json
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\bin\Debug\net8.0\26-Getters-and-Setters.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\bin\Debug\net8.0\26-Getters-and-Setters.dll
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\bin\Debug\net8.0\26-Getters-and-Setters.pdb
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.dll
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\refint\26-Getters-and-Setters.dll
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.pdb
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\26-Getters-and-Setters.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\26-Getters-and-Setters\obj\Debug\net8.0\ref\26-Getters-and-Setters.dll

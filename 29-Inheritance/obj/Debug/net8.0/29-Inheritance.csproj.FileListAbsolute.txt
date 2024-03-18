@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\29-Inheritance\bin\Debug\net8.0\29-Inheritance.exe
+C:\Users\Mike\desktop\C# 101\29-Inheritance\bin\Debug\net8.0\29-Inheritance.deps.json
+C:\Users\Mike\desktop\C# 101\29-Inheritance\bin\Debug\net8.0\29-Inheritance.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\29-Inheritance\bin\Debug\net8.0\29-Inheritance.dll
+C:\Users\Mike\desktop\C# 101\29-Inheritance\bin\Debug\net8.0\29-Inheritance.pdb
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.dll
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\refint\29-Inheritance.dll
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.pdb
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\29-Inheritance.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\29-Inheritance\obj\Debug\net8.0\ref\29-Inheritance.dll

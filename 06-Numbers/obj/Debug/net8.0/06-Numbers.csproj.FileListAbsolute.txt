@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\06-Numbers\bin\Debug\net8.0\06-Numbers.exe
+C:\Users\Mike\desktop\C# 101\06-Numbers\bin\Debug\net8.0\06-Numbers.deps.json
+C:\Users\Mike\desktop\C# 101\06-Numbers\bin\Debug\net8.0\06-Numbers.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\06-Numbers\bin\Debug\net8.0\06-Numbers.dll
+C:\Users\Mike\desktop\C# 101\06-Numbers\bin\Debug\net8.0\06-Numbers.pdb
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.dll
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\refint\06-Numbers.dll
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.pdb
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\06-Numbers.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\06-Numbers\obj\Debug\net8.0\ref\06-Numbers.dll

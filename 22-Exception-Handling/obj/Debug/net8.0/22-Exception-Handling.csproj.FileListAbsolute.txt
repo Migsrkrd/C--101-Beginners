@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\bin\Debug\net8.0\22-Exception-Handling.exe
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\bin\Debug\net8.0\22-Exception-Handling.deps.json
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\bin\Debug\net8.0\22-Exception-Handling.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\bin\Debug\net8.0\22-Exception-Handling.dll
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\bin\Debug\net8.0\22-Exception-Handling.pdb
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.dll
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\refint\22-Exception-Handling.dll
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.pdb
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\22-Exception-Handling.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\22-Exception-Handling\obj\Debug\net8.0\ref\22-Exception-Handling.dll

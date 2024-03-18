@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\bin\Debug\net8.0\28-Static-Methods.exe
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\bin\Debug\net8.0\28-Static-Methods.deps.json
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\bin\Debug\net8.0\28-Static-Methods.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\bin\Debug\net8.0\28-Static-Methods.dll
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\bin\Debug\net8.0\28-Static-Methods.pdb
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.dll
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\refint\28-Static-Methods.dll
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.pdb
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\28-Static-Methods.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\28-Static-Methods\obj\Debug\net8.0\ref\28-Static-Methods.dll

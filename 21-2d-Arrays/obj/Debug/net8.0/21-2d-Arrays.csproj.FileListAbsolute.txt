@@ -1,0 +1,14 @@
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\bin\Debug\net8.0\21-2d-Arrays.exe
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\bin\Debug\net8.0\21-2d-Arrays.deps.json
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\bin\Debug\net8.0\21-2d-Arrays.runtimeconfig.json
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\bin\Debug\net8.0\21-2d-Arrays.dll
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\bin\Debug\net8.0\21-2d-Arrays.pdb
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.AssemblyInfoInputs.cache
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.AssemblyInfo.cs
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.dll
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\refint\21-2d-Arrays.dll
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.pdb
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\21-2d-Arrays.genruntimeconfig.cache
+C:\Users\Mike\desktop\C# 101\21-2d-Arrays\obj\Debug\net8.0\ref\21-2d-Arrays.dll
