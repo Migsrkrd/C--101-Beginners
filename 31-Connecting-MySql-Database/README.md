@@ -223,8 +223,6 @@ namespace MySql.Data
             command.ExecuteNonQuery();
 
             _database.Close();
-            //to delete a user from the database
-            //in insomnia, use the delete method and the url http://localhost:5000/api/users/1
         }
     }
 }

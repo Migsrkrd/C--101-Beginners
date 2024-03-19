@@ -1,0 +1,6 @@
+@WithSchemas_HostAddress = http://localhost:5021
+
+GET {{WithSchemas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
