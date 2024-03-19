@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "eLgkch9TW5EELsvZRggQ4Ge4Epnr43ezBADgwmUsMsQ=",
+  "Hash": "dNouju64/l4l/Gc+LIP6PDYjkrXoD3BTmlf/n9ADsVs=",
   "Source": "WithSchemas",
   "BasePath": "_content/WithSchemas",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "WithSchemas\\wwwroot",
+      "Source": "WithSchemas",
+      "ContentRoot": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\",
+      "BasePath": "_content/WithSchemas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\index.html",
+      "SourceId": "WithSchemas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\",
+      "BasePath": "_content/WithSchemas",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\index.js",
+      "SourceId": "WithSchemas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\",
+      "BasePath": "_content/WithSchemas",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    }
+  ]
 }

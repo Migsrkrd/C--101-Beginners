@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WithSchemas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WithSchemas.props",
+      "PackagePath": "build\\WithSchemas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WithSchemas.props",
+      "PackagePath": "buildMultiTargeting\\WithSchemas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WithSchemas.props",
+      "PackagePath": "buildTransitive\\WithSchemas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

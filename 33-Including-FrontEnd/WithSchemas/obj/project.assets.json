@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\desktop\\C# 101\\32-Writing-Schemas\\WithSchemas\\WithSchemas.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\WithSchemas.csproj",
       "projectName": "WithSchemas",
-      "projectPath": "C:\\Users\\Mike\\desktop\\C# 101\\32-Writing-Schemas\\WithSchemas\\WithSchemas.csproj",
+      "projectPath": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\WithSchemas.csproj",
       "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike\\desktop\\C# 101\\32-Writing-Schemas\\WithSchemas\\obj\\",
+      "outputPath": "C:\\Users\\Mike\\desktop\\C# 101\\33-Including-FrontEnd\\WithSchemas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config"
